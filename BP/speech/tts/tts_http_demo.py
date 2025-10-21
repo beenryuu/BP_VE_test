@@ -30,7 +30,7 @@ def tts_http_stream():
         "enable_latex_tn": True,
         "disable_default_bit_rate": True,
         "max_length_to_filter_parenthesis": 0,
-        "explicit_language": 'ja',
+        "explicit_language": 'crosslingual',
         "cache_config": {
             "text_type": 1,
             "use_cache": True
